@@ -1,0 +1,1 @@
+CREATE TABLE `esx_blips` (`id` INT NOT NULL AUTO_INCREMENT , `data` TEXT NOT NULL , PRIMARY KEY (`id`)) ENGINE = InnoDB;
